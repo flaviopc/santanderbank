@@ -1,6 +1,5 @@
 package me.dio.santander_bank.controller.exceptions;
 
-import java.rmi.UnexpectedException;
 import java.util.NoSuchElementException;
 
 import org.slf4j.Logger;
